@@ -1,0 +1,146 @@
+.circle {
+    border-radius: 50%;
+}
+.navbar-nav {
+  margin:11px;
+}
+.side{
+  max-width: 300px;
+  margin:10px 0 0 10px;
+  float: left;
+}
+.boks{
+  border:1px solid black;
+  padding: 20px;
+  width: 50%;
+}
+#head{
+  min-height: 550px;
+}
+h2,h3, table, p{
+  font-family: 'Poppins', sans-serif;
+}
+#head h2{
+  color:#fff;
+  margin:0;
+  padding:70px 0 0 100px;
+  font-size: 900%;
+}
+#head h3{
+  color:#fff;
+  margin:0;
+  padding:70px 0 0 100px;
+  font-size: 300%;
+}
+.jul{
+  background-size: cover;
+  background-color: #a42c2d;
+}
+.belgisk{
+  background-size: cover;
+  background-color: #F4CE67;
+
+}
+.sunipa{
+  background-size: cover;
+  background-color: #DEB850;
+}
+.paleale{
+  background-size: cover;
+  background-color: #DB8A48;
+}
+.farmhouse{
+  background-size: cover;
+  background-color: #C7864E;
+}
+.oatmeal{
+  background-size: cover;
+  background-color: #000;
+}
+.kolsch{
+  background-size: cover;
+  background-color: #D4BE77;
+}
+.cider{
+  background-size: cover;
+  background-color: #46A95C;
+}
+.raspberry{
+  background-size: cover;
+  border: 8px solid #D13D63;
+  background-color: #fff;
+}
+.raspberry img{
+  float:right;
+}
+.whiteipa{
+  background-size: cover;
+  border: 8px solid #576F59;
+  background-color: #fff;
+}
+.ipa{
+  background-size: cover;
+  background-color: #576F59;
+}
+.hveteol{
+  background-size: cover;
+  border: 8px solid #E6D1A4;
+  background-color: #fff;
+}
+#shoulder h3{
+  color:#000;
+  margin:0;
+  padding:70px 0 0 100px;
+  font-size: 300%;
+}
+#shoulder p, #shoulder h2, #shoulder h4{
+  color:#000;
+  margin:0;
+  padding:70px 0 0 100px;
+}
+
+#head table{
+  color:white;
+  margin:10px 0 0 100px;
+
+}
+#head table tbody{
+padding-top: 10px;
+}
+#head table th{
+  height:50px;
+  width: 100px;
+  padding-right: 45px;
+  border-bottom: 1px solid #fff;
+}
+#head table td{
+  line-height: 1.4;
+}
+#shoulder table{
+  color:#000;
+  margin:50px 0 0 100px;
+
+}
+#shoulder table tbody{
+padding-top: 10px;
+}
+#shoulder table th{
+  height:50px;
+  min-width: 100px;
+  padding-right: 45px;
+  border-bottom: 1px solid #000;
+}
+#shoulder table td{
+  line-height: 4;
+  min-width:160px;
+}
+#shoulder table tr{
+  border-bottom: 1px solid black;
+}
+.last{
+  border-bottom: none !important;
+}
+#contact{
+  padding-bottom: 0;
+  margin-top:100px;
+}
